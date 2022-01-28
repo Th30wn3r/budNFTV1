@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x605a1ac45d0924be0e1d4a2d1c091f59d3ed9c3e",
+  "SCAN_LINK": "https://bscscan.com/address/0x605a1ac45d0924be0e1d4a2d1c091f59d3ed9c3e",
+  "NETWORK": {
+    "NAME": "Binance Smart Chain",
+    "SYMBOL": "BNB",
+    "ID": 56
+  },
+  "NFT_NAME": "Baby Bud",
+  "SYMBOL": "BUD",
+  "MAX_SUPPLY": 2500,
+  "WEI_COST": 120000000000000000,
+  "DISPLAY_COST": 0.12,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Tofunft",
+  "MARKETPLACE_LINK": "https://tofunft.com/",
+  "SHOW_BACKGROUND": true
+}
